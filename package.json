@@ -2,7 +2,7 @@
   "name": "robofriends",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nunobreis",
+  "homepage": "https://nunobreis.github.io/robot-collection/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
